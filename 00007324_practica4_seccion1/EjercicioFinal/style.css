@@ -1,0 +1,13 @@
+#contenedor{
+    background-color: aliceblue;
+    margin-bottom: 20px;
+    padding: 10px;  
+}
+#Apartado_mensaje{
+    display : flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(160, 184, 239);
+    border-radius: 10px;
+    width: 350px;
+}
