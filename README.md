@@ -1,6 +1,7 @@
 # 00007324_practica4_secci-n1
 
 Preguntas
+
 1.Analicemos ¿Qué ocurre en cada caso presentado anteriormente con los operadores y porqué JS me permite esto?
   En el primer caso se observa la jerarquia de operaciones, en el segundo se observa el orden que toma durante los 
   incrementos y en el tercero se vuelve a ver la prioridad de los operadores, JS permite esto gracias a su sistema 
